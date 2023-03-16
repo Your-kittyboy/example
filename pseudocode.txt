@@ -1,0 +1,20 @@
+PSEUDOCODE
+-"Library App (proses peminjaman dan pengembalian buku)"
+
+listId =[Id peminjam,Tanggal Batas peminjaman]
+
+idpinjam = input ('Masukan id peminjam : ')
+
+//Tanggal yang berjalan
+i = 
+
+While "i" <= 3:
+	print(Masih bisa meminjam)
+
+if listid (i>0) == idpinjam :
+      print('Anda masih bisa meminjam)
+
+else :
+      print('Anda sudah tidak bisa membuka buku)
+
+		
